@@ -1,0 +1,10 @@
+[
+    {
+      "destination": "Cracow",
+      "class": "first",
+	  "type": "normal",
+	  "price": 26,
+      "distance": 170,
+      "seat_reservation": true
+	  }
+]
